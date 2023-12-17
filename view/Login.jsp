@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Admin login</title>
+<title>login</title>
 <style>
     .bg{
         background: url("https://img.freepik.com/free-vector/pink-glowing-lines-dark-background_53876-118394.jpg?w=740&t=st=1686312484~exp=1686313084~hmac=a1fb1469bef782f9cfe633c12358f3deadb345abd49394672c3d924e176eb70b");
